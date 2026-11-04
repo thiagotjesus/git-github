@@ -20,3 +20,17 @@
 ## Commit
 
 - git add . ou <nomeDoArquivo>
+- git commit -m "Primeiro commit"
+
+## Definir a ramificação
+
+- git branch -M main
+
+## Conectar ao repositório do Github (somente na primeira vez)
+
+- git remote add origin {cole o link do repositório}
+
+## Enviar para o Github
+
+- git push -u origin main (apenas no primeiro envio)
+- git push (para os demais enviosse )
